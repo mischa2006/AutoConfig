@@ -1,0 +1,4 @@
+name: AutoConfig
+version: '1.0-SNAPSHOT'
+main: me.Mischarod.autoConfig.AutoConfig
+api-version: '1.21'
